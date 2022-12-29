@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GreenFlag Registration Page</string>
+    <string name="logo_view">Logo</string>
+    <string name="text0">GreenFlag customers can create an account to access</string>
+    <string name="tick_view">Tick</string>
+    <string name="text1">Car health updates</string>
+    <string name="text2">Request a rescue online</string>
+    <string name="text3">Policy information</string>
+    <string name="create_account_btn">Create an account</string>
+    <string name="email_input">Email address</string>
+    <string name="email_input_hint">xxx@xxxxx.xxx</string>
+    <string name="password_input">Create password</string>
+    <string name="password_input_hint">See criteria below</string>
+    <string name="password_confirm">Repeat password</string>
+    <string name="password_confirm_hint">Same password</string>
+    <string name="password_criteria">Your password should have a minimum of 8 characters and contain at least one number, one uppercase and one lower case letter. You can use special characters.</string>
+    <string name="create_account_done_btn">Next</string>
+    <string name="registration_page_title">Create Account</string>
+    <string name="wipe_server_data">Wipe shared preference</string>
+    <string name="password_type">********</string>
+</resources>

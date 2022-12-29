@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerTextSize">33sp</dimen>
+    <dimen name="textSize">24sp</dimen>
+    <dimen name="headerSize">30sp</dimen>
+    <dimen name="fontSize">23sp</dimen>
+    <dimen name="size">18sp</dimen>
+    <dimen name="text_size">30sp</dimen>
+</resources>
